@@ -1,4 +1,4 @@
 
-public class Problem2 {
+public class Problem3 {
 
 }
