@@ -6,10 +6,9 @@
  * 			The prime factors of 13195 are 5, 7, 13 and 29.
  * 			What is the largest prime factor of the number 600851475143 ?
  *			
- * @solution Find the factors of the number.
- * 			 Note: only 1 through sqrt(600851475143) need to be tested.
- * 			 If a factor is found, test if its counterpart is a prime number.
- * 			 The first prime number found this way is the highest prime factor.
+ * @solution Factor the number, by breaking it down into smaller prime factors.
+ * 			 That is, divide it by prime factors in a loop.
+ * 			 The last factor that the number is divisible by is the largest prime factor.
  */
 
 public class Problem3 {
