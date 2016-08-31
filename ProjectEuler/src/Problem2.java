@@ -13,6 +13,7 @@
  * 				If term is a multiple of 2, add to total.
  * 				Otherwise, generate next term.
  */
+
 public class Problem2 {
 	
 	public static void main(String[] args) {

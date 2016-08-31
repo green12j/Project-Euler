@@ -12,6 +12,7 @@
  * 			 Find all of the multiples of 3 * 5, and subtract them from the total (since
  * 			 they have all been double counted).
  */
+
 public class Problem1 {
 	
 	public static void main(String[] args) {
