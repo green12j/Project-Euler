@@ -15,26 +15,17 @@
 public class Problem3 {
 	
 	public static void main(String[] agrs) {
-		double number = 600851475143L,
-			   numMax = Math.sqrt(number),
-			   ref = 2L;
+		long number = 600851475143L;
+		int div = 2;
 		
-		while (ref <= numMax) {
-			 if (isPrime(number / ref)) {
-				 System.out.println(number / ref);
-				 break;
-			 }
-			 else {
-				 ref ++;
-			 }
+		while (number > 1) {
+			if ((number % div) == 0) {
+				number /= div;
+				div--;
+			}
+			div++;
 		}
 		
-	}
-	
-	public static boolean isPrime(double factor) {
-		if (factor % 1 == 0) {
-			
-		}
-		return true;
+		System.out.println(div);
 	}
 }
