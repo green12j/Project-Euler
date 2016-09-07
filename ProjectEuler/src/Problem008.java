@@ -43,7 +43,7 @@
  * 			 After the loop finishes, print out the variable containing the largest product to view the answer.
  */
 
-public class Problem8 {
+public class Problem008 {
 	public static void main(String[] args) {
 		String bigNum = "73167176531330624919225119674426574742355349194934" +
 						"96983520312774506326239578318016984801869478851843" +
