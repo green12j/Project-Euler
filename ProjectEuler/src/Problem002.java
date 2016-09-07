@@ -14,7 +14,7 @@
  * 				Otherwise, generate next term.
  */
 
-public class Problem2 {
+public class Problem002 {
 	
 	public static void main(String[] args) {
 		int max = 4000000,
