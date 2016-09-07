@@ -16,7 +16,7 @@
  *			 counter reaches the desired term, print out the last tested number.
  */
 
-public class Problem7 {
+public class Problem007 {
 	public static void main(String[] args) {
 		int curNum = 1,
 			prime = 0,
