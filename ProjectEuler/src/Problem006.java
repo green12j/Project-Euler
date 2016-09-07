@@ -15,7 +15,7 @@
  * @solution Brute force....
  */
 
-public class Problem6 {
+public class Problem006 {
 	public static void main(String[] args) {
 		long somOSq = 0L,
 			 sqOSm = 0L,
