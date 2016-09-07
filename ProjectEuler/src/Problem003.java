@@ -11,7 +11,7 @@
  * 			 The last factor that the number is divisible by is the largest prime factor.
  */
 
-public class Problem3 {
+public class Problem003 {
 	
 	public static void main(String[] agrs) {
 		long number = 600851475143L;
