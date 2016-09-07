@@ -23,7 +23,7 @@
  * 			Once correct combination is found, find the product of the triplet and print it.
  */
 
-public class Problem9 {
+public class Problem009 {
 	public static void main(String[] args) {
 		int a = 0,
 			aMax = 332,
