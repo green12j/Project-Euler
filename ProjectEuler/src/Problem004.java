@@ -16,7 +16,7 @@
  * 			 Compare the digits using % and / to determine whether they are the same.
  */
 
-public class Problem4 {
+public class Problem004 {
 	
 	public static void main(String[] args) {
 		int largest = 1, num1, num2, product;
